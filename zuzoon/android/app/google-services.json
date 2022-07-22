@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44274759123",
+    "project_id": "zuzoon-fba66",
+    "storage_bucket": "zuzoon-fba66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44274759123:android:bcd49f6a11619df792ab26",
+        "android_client_info": {
+          "package_name": "com.example.zuzoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44274759123-r0mndnpgceifegkbvp51o5fpkvv881ge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zuzoon",
+            "certificate_hash": "86d86e4080a2053b31e6ce5dd1dd0894dcddf7d0"
+          }
+        },
+        {
+          "client_id": "44274759123-5ksmcv92b6ng7cpdkpe3dd6b1adk94os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwzMmoynZnvYzl_RQgioHHW0y5BUQtZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44274759123-5ksmcv92b6ng7cpdkpe3dd6b1adk94os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
